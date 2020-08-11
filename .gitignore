@@ -1,2 +1,4 @@
 **/.DS_Store
 ./__pycache__
+thorlabs_apt/__pycache__
+thorlabs_apt/*.pyc
